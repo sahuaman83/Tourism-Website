@@ -8,7 +8,7 @@ https://sahuaman83.github.io/Tourism-Website/
  Home page:
  
  
- ![bandicam 2019-07-09 15-56-52-920](https://user-images.githubusercontent.com/47247696/60882901-6e282780-a266-11e9-862d-88768cb185ad.jpg)
+ ![images\]
  
 
  References:
