@@ -8,7 +8,7 @@ https://sahuaman83.github.io/Tourism-Website/
  Home page:
  
  
- ![images\]
+ ![](images/tour.png)
  
 
  References:
