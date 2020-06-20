@@ -2,7 +2,7 @@
 A  multi-page website for Araku Valley tourism created using HTML,CSS and Javascript.No templates have been used.
 
 Visit:
-https://himabindugssn.github.io/Araku-Valley-Tourism-Website/
+https://sahuaman83.github.io/Tourism-Website/
 
 
  Home page:
